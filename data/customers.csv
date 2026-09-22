@@ -1,0 +1,1501 @@
+customer_id,age,gender,city,customer_segment,preferred_device
+1,58,Male,New York,Loyal,Mobile
+2,32,Male,New York,New,Tablet
+3,45,Male,New York,New,Mobile
+4,32,Male,Seattle,Regular,Tablet
+5,59,Female,Chicago,VIP,Tablet
+6,35,Male,Chicago,VIP,Desktop
+7,35,Male,Chicago,Loyal,Mobile
+8,23,Female,New York,Loyal,Desktop
+9,56,Female,New York,VIP,Tablet
+10,25,Female,New York,Loyal,Tablet
+11,57,Female,Seattle,Regular,Tablet
+12,22,Male,Chicago,Loyal,Mobile
+13,32,Male,Houston,Loyal,Desktop
+14,58,Female,Chicago,Loyal,Desktop
+15,31,Female,New York,Regular,Tablet
+16,64,Male,Chicago,VIP,Desktop
+17,35,Male,Los Angeles,New,Mobile
+18,70,Male,Los Angeles,VIP,Desktop
+19,22,Male,Seattle,Loyal,Mobile
+20,59,Female,Houston,VIP,Mobile
+21,34,Male,Chicago,Loyal,Tablet
+22,55,Female,Seattle,VIP,Desktop
+23,32,Male,Seattle,VIP,Mobile
+24,66,Male,New York,Regular,Tablet
+25,28,Female,Seattle,New,Desktop
+26,42,Female,Seattle,Loyal,Tablet
+27,18,Male,Seattle,Loyal,Tablet
+28,39,Male,Los Angeles,VIP,Mobile
+29,47,Male,Los Angeles,Regular,Tablet
+30,24,Female,Seattle,Regular,Mobile
+31,41,Male,Seattle,New,Tablet
+32,38,Female,New York,New,Desktop
+33,69,Female,Chicago,New,Mobile
+34,54,Male,New York,VIP,Mobile
+35,66,Male,Chicago,VIP,Tablet
+36,28,Female,Seattle,VIP,Mobile
+37,52,Male,Los Angeles,VIP,Tablet
+38,59,Female,Houston,VIP,Mobile
+39,33,Male,New York,Loyal,Mobile
+40,55,Male,Seattle,Regular,Mobile
+41,22,Male,Chicago,New,Mobile
+42,39,Male,Seattle,Regular,Desktop
+43,60,Female,Chicago,Regular,Tablet
+44,54,Female,Chicago,VIP,Desktop
+45,30,Male,New York,VIP,Desktop
+46,45,Female,Houston,New,Tablet
+47,59,Male,New York,VIP,Tablet
+48,39,Male,Chicago,Regular,Mobile
+49,52,Female,Chicago,VIP,Mobile
+50,35,Female,Chicago,New,Desktop
+51,69,Male,New York,New,Mobile
+52,66,Male,Chicago,VIP,Desktop
+53,48,Male,Houston,New,Mobile
+54,42,Male,Houston,Loyal,Desktop
+55,36,Female,Seattle,VIP,Mobile
+56,30,Female,Chicago,New,Tablet
+57,65,Male,Los Angeles,New,Mobile
+58,55,Female,Seattle,Regular,Mobile
+59,50,Male,Chicago,New,Tablet
+60,22,Male,Houston,New,Tablet
+61,33,Male,Seattle,New,Desktop
+62,60,Female,Los Angeles,Regular,Tablet
+63,63,Female,Chicago,Loyal,Desktop
+64,26,Female,Houston,Loyal,Mobile
+65,18,Female,Seattle,New,Mobile
+66,52,Male,Seattle,Loyal,Mobile
+67,40,Male,Chicago,Loyal,Desktop
+68,28,Female,Seattle,Loyal,Tablet
+69,69,Male,Seattle,Loyal,Tablet
+70,24,Male,Los Angeles,New,Mobile
+71,65,Male,Los Angeles,Loyal,Tablet
+72,31,Female,Chicago,Loyal,Tablet
+73,49,Female,New York,New,Tablet
+74,45,Female,New York,New,Desktop
+75,67,Male,Los Angeles,Regular,Tablet
+76,46,Female,Seattle,New,Mobile
+77,22,Male,Seattle,New,Desktop
+78,55,Male,Houston,Regular,Mobile
+79,37,Female,New York,Loyal,Mobile
+80,61,Male,New York,Loyal,Tablet
+81,44,Male,Chicago,Regular,Mobile
+82,44,Male,Chicago,Loyal,Desktop
+83,69,Male,Los Angeles,Regular,Tablet
+84,24,Female,New York,VIP,Mobile
+85,30,Female,Los Angeles,Loyal,Mobile
+86,32,Male,Chicago,VIP,Desktop
+87,35,Male,Los Angeles,Loyal,Tablet
+88,50,Female,Seattle,Loyal,Mobile
+89,25,Female,Chicago,Loyal,Mobile
+90,24,Female,Los Angeles,Loyal,Desktop
+91,56,Male,Houston,Regular,Desktop
+92,20,Female,New York,Regular,Desktop
+93,45,Male,Los Angeles,Loyal,Tablet
+94,25,Female,Seattle,Loyal,Tablet
+95,44,Female,Houston,Loyal,Tablet
+96,26,Male,Houston,VIP,Tablet
+97,65,Male,Seattle,Loyal,Desktop
+98,53,Male,Los Angeles,Loyal,Mobile
+99,45,Female,Houston,VIP,Desktop
+100,61,Male,Seattle,VIP,Tablet
+101,28,Male,Los Angeles,Loyal,Mobile
+102,70,Male,Los Angeles,Regular,Mobile
+103,27,Male,New York,Regular,Desktop
+104,57,Male,Houston,VIP,Tablet
+105,54,Male,Houston,VIP,Desktop
+106,33,Male,New York,New,Desktop
+107,32,Male,Seattle,VIP,Mobile
+108,53,Male,New York,VIP,Mobile
+109,69,Female,Seattle,Loyal,Desktop
+110,57,Female,Seattle,VIP,Mobile
+111,65,Female,Houston,Loyal,Mobile
+112,58,Female,Seattle,VIP,Tablet
+113,33,Female,Houston,New,Tablet
+114,36,Male,Los Angeles,Loyal,Desktop
+115,52,Male,Chicago,Regular,Mobile
+116,42,Male,Chicago,New,Desktop
+117,44,Female,Seattle,VIP,Desktop
+118,21,Male,Houston,VIP,Tablet
+119,62,Male,Seattle,VIP,Desktop
+120,18,Female,Los Angeles,VIP,Desktop
+121,52,Male,Houston,Regular,Desktop
+122,45,Female,New York,VIP,Desktop
+123,60,Female,Chicago,VIP,Mobile
+124,57,Male,Houston,New,Mobile
+125,59,Female,Chicago,VIP,Mobile
+126,21,Female,Houston,Loyal,Mobile
+127,47,Female,Los Angeles,VIP,Desktop
+128,66,Female,Los Angeles,New,Desktop
+129,19,Male,Los Angeles,Regular,Tablet
+130,22,Male,New York,Regular,Mobile
+131,19,Male,Chicago,Regular,Desktop
+132,60,Male,Seattle,Regular,Desktop
+133,62,Female,Los Angeles,Regular,Tablet
+134,56,Male,Chicago,Loyal,Mobile
+135,55,Male,Los Angeles,VIP,Desktop
+136,63,Male,New York,Regular,Mobile
+137,62,Female,Seattle,New,Tablet
+138,68,Male,Los Angeles,VIP,Tablet
+139,41,Male,Seattle,Loyal,Mobile
+140,44,Female,New York,VIP,Desktop
+141,58,Female,Chicago,VIP,Mobile
+142,64,Female,Seattle,VIP,Desktop
+143,45,Female,Los Angeles,Regular,Mobile
+144,35,Female,Chicago,VIP,Tablet
+145,57,Female,Los Angeles,New,Desktop
+146,38,Male,Houston,Regular,Desktop
+147,69,Female,Los Angeles,Loyal,Tablet
+148,62,Female,Seattle,New,Tablet
+149,30,Male,Chicago,VIP,Desktop
+150,53,Male,Houston,VIP,Desktop
+151,68,Male,New York,Loyal,Mobile
+152,43,Male,Los Angeles,Loyal,Desktop
+153,53,Female,Houston,Loyal,Desktop
+154,62,Female,Los Angeles,Loyal,Desktop
+155,32,Male,Chicago,Loyal,Mobile
+156,65,Male,Chicago,Regular,Tablet
+157,48,Female,Seattle,Loyal,Mobile
+158,30,Female,Chicago,Loyal,Mobile
+159,37,Male,Seattle,Regular,Desktop
+160,20,Male,Seattle,Loyal,Tablet
+161,26,Female,New York,New,Tablet
+162,36,Female,Houston,VIP,Desktop
+163,29,Male,Los Angeles,VIP,Mobile
+164,70,Male,Houston,VIP,Mobile
+165,54,Male,Chicago,Regular,Tablet
+166,37,Male,Chicago,New,Tablet
+167,66,Female,Seattle,Regular,Tablet
+168,42,Female,Houston,Loyal,Tablet
+169,45,Female,Seattle,New,Tablet
+170,65,Male,Chicago,Regular,Desktop
+171,60,Male,Chicago,Regular,Mobile
+172,53,Male,Chicago,New,Desktop
+173,46,Female,Los Angeles,New,Mobile
+174,36,Female,Houston,New,Tablet
+175,32,Female,Seattle,Regular,Desktop
+176,25,Male,Chicago,Loyal,Mobile
+177,22,Male,Chicago,Loyal,Tablet
+178,65,Female,Houston,New,Desktop
+179,62,Female,Houston,Loyal,Tablet
+180,52,Female,Houston,New,Tablet
+181,20,Female,Los Angeles,Loyal,Mobile
+182,23,Male,Seattle,New,Tablet
+183,70,Female,Seattle,New,Mobile
+184,48,Female,Los Angeles,Regular,Tablet
+185,45,Female,New York,VIP,Desktop
+186,44,Female,Los Angeles,New,Mobile
+187,39,Female,Houston,Loyal,Tablet
+188,43,Male,Houston,New,Desktop
+189,34,Female,New York,VIP,Tablet
+190,70,Male,Seattle,VIP,Desktop
+191,21,Male,Seattle,Loyal,Tablet
+192,66,Female,Houston,New,Mobile
+193,35,Male,Los Angeles,VIP,Tablet
+194,49,Male,New York,Regular,Tablet
+195,28,Female,Seattle,New,Tablet
+196,44,Male,Chicago,New,Desktop
+197,25,Male,Houston,Loyal,Tablet
+198,63,Female,Houston,VIP,Desktop
+199,33,Female,Seattle,Regular,Desktop
+200,30,Male,New York,Loyal,Desktop
+201,39,Female,New York,Loyal,Tablet
+202,37,Female,Chicago,VIP,Tablet
+203,48,Female,Los Angeles,VIP,Desktop
+204,38,Male,Chicago,VIP,Mobile
+205,67,Female,New York,Loyal,Tablet
+206,48,Female,Houston,Regular,Desktop
+207,20,Male,Seattle,Loyal,Mobile
+208,46,Male,Seattle,VIP,Mobile
+209,64,Male,Houston,Regular,Mobile
+210,48,Female,Los Angeles,VIP,Tablet
+211,23,Female,Seattle,VIP,Desktop
+212,58,Female,Seattle,New,Tablet
+213,22,Male,Los Angeles,Regular,Tablet
+214,23,Female,New York,New,Desktop
+215,28,Female,New York,New,Desktop
+216,68,Male,Los Angeles,Loyal,Desktop
+217,45,Male,Chicago,VIP,Tablet
+218,61,Male,Chicago,Regular,Mobile
+219,57,Female,Seattle,Regular,Desktop
+220,55,Male,Chicago,VIP,Tablet
+221,34,Female,Los Angeles,New,Desktop
+222,36,Male,New York,VIP,Desktop
+223,55,Female,Houston,Loyal,Desktop
+224,37,Male,Houston,VIP,Mobile
+225,33,Female,Seattle,Loyal,Tablet
+226,36,Female,New York,VIP,Desktop
+227,18,Male,Seattle,VIP,Desktop
+228,67,Male,Seattle,Loyal,Mobile
+229,58,Male,Seattle,Loyal,Tablet
+230,66,Male,New York,New,Desktop
+231,68,Female,New York,Loyal,Tablet
+232,26,Male,Los Angeles,Loyal,Tablet
+233,44,Male,Chicago,Regular,Tablet
+234,41,Female,Chicago,Loyal,Desktop
+235,69,Female,Los Angeles,New,Desktop
+236,22,Male,Chicago,VIP,Tablet
+237,41,Male,Houston,New,Desktop
+238,52,Male,Houston,Loyal,Tablet
+239,65,Female,Seattle,VIP,Tablet
+240,41,Male,Chicago,VIP,Mobile
+241,57,Female,Seattle,Regular,Tablet
+242,22,Female,Los Angeles,VIP,Mobile
+243,26,Male,New York,Loyal,Desktop
+244,25,Male,Chicago,Regular,Desktop
+245,47,Female,Seattle,VIP,Tablet
+246,65,Male,Houston,New,Desktop
+247,57,Female,Los Angeles,New,Tablet
+248,41,Male,Houston,VIP,Mobile
+249,41,Male,Los Angeles,Loyal,Mobile
+250,43,Female,Chicago,New,Desktop
+251,23,Male,Seattle,New,Mobile
+252,68,Female,Chicago,Regular,Tablet
+253,31,Male,Seattle,Regular,Tablet
+254,31,Male,Los Angeles,Regular,Tablet
+255,18,Female,Chicago,Regular,Tablet
+256,34,Male,New York,New,Mobile
+257,18,Female,Chicago,Loyal,Mobile
+258,29,Female,New York,Regular,Tablet
+259,44,Male,New York,VIP,Desktop
+260,67,Female,Seattle,New,Desktop
+261,50,Male,Seattle,New,Tablet
+262,68,Female,Houston,New,Mobile
+263,48,Female,Houston,New,Desktop
+264,63,Female,New York,New,Desktop
+265,56,Male,New York,Regular,Desktop
+266,57,Female,Houston,Loyal,Desktop
+267,50,Female,New York,New,Tablet
+268,59,Male,Houston,VIP,Mobile
+269,44,Female,Houston,VIP,Desktop
+270,64,Male,Los Angeles,VIP,Desktop
+271,60,Female,Los Angeles,Regular,Tablet
+272,48,Male,New York,New,Mobile
+273,45,Male,Los Angeles,Regular,Tablet
+274,21,Female,New York,VIP,Desktop
+275,60,Female,New York,Loyal,Tablet
+276,37,Female,New York,Regular,Mobile
+277,60,Female,Chicago,New,Desktop
+278,53,Female,New York,Loyal,Tablet
+279,32,Female,Seattle,New,Tablet
+280,60,Female,New York,Regular,Desktop
+281,62,Female,Los Angeles,Loyal,Mobile
+282,29,Male,Seattle,VIP,Mobile
+283,27,Male,New York,Regular,Desktop
+284,44,Female,Los Angeles,Regular,Desktop
+285,37,Female,Seattle,New,Mobile
+286,27,Male,Seattle,New,Tablet
+287,23,Female,Houston,VIP,Desktop
+288,56,Female,Houston,Loyal,Mobile
+289,66,Male,Los Angeles,VIP,Mobile
+290,36,Female,Seattle,Loyal,Mobile
+291,32,Female,Seattle,New,Mobile
+292,31,Female,Chicago,Regular,Desktop
+293,36,Female,New York,New,Desktop
+294,65,Female,Chicago,Regular,Desktop
+295,52,Male,Seattle,Loyal,Mobile
+296,43,Male,Houston,New,Desktop
+297,22,Female,Seattle,VIP,Tablet
+298,43,Female,Los Angeles,New,Desktop
+299,19,Female,Chicago,VIP,Tablet
+300,41,Male,Houston,New,Mobile
+301,45,Female,Seattle,New,Desktop
+302,37,Female,Chicago,Loyal,Mobile
+303,22,Male,Seattle,Regular,Desktop
+304,40,Male,Chicago,New,Mobile
+305,34,Male,Chicago,Regular,Tablet
+306,22,Male,Houston,VIP,Tablet
+307,66,Female,Seattle,Loyal,Tablet
+308,38,Male,Houston,New,Desktop
+309,46,Female,Los Angeles,New,Desktop
+310,50,Male,Los Angeles,VIP,Desktop
+311,20,Male,Los Angeles,Loyal,Mobile
+312,59,Male,Seattle,VIP,Desktop
+313,55,Male,Houston,Regular,Desktop
+314,56,Female,Seattle,Regular,Mobile
+315,46,Male,Los Angeles,New,Tablet
+316,59,Male,New York,Regular,Tablet
+317,46,Female,Seattle,Regular,Desktop
+318,41,Female,Houston,VIP,Desktop
+319,61,Male,Los Angeles,New,Desktop
+320,24,Female,Los Angeles,Loyal,Tablet
+321,60,Male,Los Angeles,New,Tablet
+322,60,Male,Los Angeles,Loyal,Tablet
+323,62,Female,Chicago,New,Desktop
+324,53,Female,Los Angeles,Regular,Tablet
+325,62,Male,Houston,Loyal,Mobile
+326,41,Female,Chicago,Regular,Desktop
+327,67,Female,Chicago,Regular,Mobile
+328,27,Male,Los Angeles,New,Tablet
+329,67,Male,Los Angeles,Regular,Tablet
+330,42,Male,Chicago,Regular,Tablet
+331,67,Male,Houston,New,Desktop
+332,41,Male,Houston,Loyal,Tablet
+333,68,Female,Chicago,Regular,Desktop
+334,69,Female,Chicago,Loyal,Tablet
+335,54,Female,Houston,Loyal,Desktop
+336,50,Female,Chicago,Regular,Tablet
+337,26,Female,New York,VIP,Desktop
+338,53,Male,Seattle,New,Desktop
+339,23,Male,Los Angeles,VIP,Tablet
+340,27,Female,New York,Regular,Desktop
+341,40,Male,Houston,New,Desktop
+342,50,Female,Chicago,VIP,Mobile
+343,41,Male,New York,Loyal,Mobile
+344,63,Female,Chicago,Regular,Mobile
+345,36,Female,Chicago,VIP,Desktop
+346,57,Male,New York,New,Desktop
+347,31,Male,Seattle,VIP,Mobile
+348,67,Female,Chicago,Loyal,Mobile
+349,21,Male,Houston,VIP,Mobile
+350,25,Female,Seattle,New,Tablet
+351,50,Male,Chicago,Loyal,Desktop
+352,18,Female,Chicago,VIP,Mobile
+353,60,Male,Seattle,Loyal,Mobile
+354,51,Male,Houston,VIP,Mobile
+355,58,Female,Los Angeles,Loyal,Tablet
+356,19,Female,New York,Loyal,Mobile
+357,64,Male,Seattle,Loyal,Mobile
+358,20,Female,Seattle,Loyal,Tablet
+359,29,Female,Houston,Regular,Mobile
+360,22,Female,New York,Loyal,Mobile
+361,20,Male,New York,Loyal,Desktop
+362,50,Female,Seattle,VIP,Desktop
+363,20,Male,Los Angeles,Loyal,Mobile
+364,59,Female,Los Angeles,New,Desktop
+365,45,Female,Houston,VIP,Desktop
+366,29,Female,Houston,Loyal,Tablet
+367,35,Male,Houston,New,Desktop
+368,56,Male,Seattle,Loyal,Desktop
+369,24,Male,Los Angeles,Loyal,Desktop
+370,46,Female,Chicago,VIP,Desktop
+371,46,Male,Los Angeles,VIP,Desktop
+372,58,Male,New York,VIP,Desktop
+373,50,Male,New York,Regular,Tablet
+374,61,Female,New York,Regular,Mobile
+375,33,Female,Los Angeles,VIP,Tablet
+376,20,Male,Houston,Loyal,Desktop
+377,46,Male,Seattle,Regular,Tablet
+378,41,Female,Los Angeles,Loyal,Mobile
+379,25,Male,Chicago,VIP,Tablet
+380,42,Male,Los Angeles,Loyal,Tablet
+381,46,Male,Seattle,Loyal,Tablet
+382,49,Male,New York,Regular,Mobile
+383,46,Male,Houston,New,Tablet
+384,38,Female,New York,Loyal,Desktop
+385,28,Male,Los Angeles,Regular,Mobile
+386,30,Male,Chicago,VIP,Mobile
+387,41,Female,Houston,Regular,Tablet
+388,23,Male,Los Angeles,VIP,Tablet
+389,64,Female,Seattle,VIP,Desktop
+390,70,Male,Chicago,Loyal,Tablet
+391,22,Female,Houston,Loyal,Mobile
+392,67,Male,Chicago,VIP,Tablet
+393,21,Male,Seattle,Regular,Desktop
+394,28,Male,Los Angeles,Regular,Desktop
+395,51,Female,New York,Loyal,Mobile
+396,58,Female,Chicago,Loyal,Tablet
+397,52,Male,Seattle,Regular,Tablet
+398,55,Male,Chicago,Loyal,Tablet
+399,20,Male,New York,New,Tablet
+400,67,Female,Chicago,VIP,Tablet
+401,58,Male,Houston,Loyal,Tablet
+402,37,Female,Chicago,VIP,Desktop
+403,47,Male,New York,Regular,Desktop
+404,44,Female,Houston,Regular,Desktop
+405,56,Male,Los Angeles,Loyal,Tablet
+406,40,Female,Chicago,Loyal,Tablet
+407,53,Male,Los Angeles,Regular,Desktop
+408,25,Female,Houston,Regular,Mobile
+409,24,Male,Los Angeles,VIP,Tablet
+410,44,Male,Chicago,Loyal,Tablet
+411,64,Female,Chicago,Regular,Desktop
+412,50,Female,Houston,Loyal,Desktop
+413,19,Male,Houston,VIP,Mobile
+414,31,Female,New York,New,Desktop
+415,49,Female,Los Angeles,New,Mobile
+416,45,Male,Los Angeles,Loyal,Desktop
+417,41,Male,Houston,New,Tablet
+418,53,Male,Los Angeles,Loyal,Mobile
+419,42,Female,Seattle,Loyal,Tablet
+420,61,Male,Chicago,New,Desktop
+421,41,Female,Seattle,Loyal,Mobile
+422,30,Female,Seattle,New,Mobile
+423,20,Male,Los Angeles,VIP,Tablet
+424,47,Male,Seattle,Regular,Desktop
+425,57,Female,Chicago,VIP,Tablet
+426,65,Female,Seattle,Loyal,Tablet
+427,50,Female,Seattle,Loyal,Desktop
+428,70,Male,Los Angeles,Loyal,Tablet
+429,25,Female,Seattle,Loyal,Tablet
+430,62,Male,Seattle,VIP,Desktop
+431,59,Male,New York,VIP,Mobile
+432,51,Female,Chicago,Regular,Mobile
+433,54,Male,Chicago,New,Desktop
+434,38,Female,Chicago,VIP,Tablet
+435,31,Female,Seattle,VIP,Tablet
+436,64,Male,Chicago,Regular,Tablet
+437,38,Female,Seattle,VIP,Desktop
+438,29,Female,Seattle,Loyal,Tablet
+439,40,Female,Seattle,VIP,Mobile
+440,33,Female,Seattle,Loyal,Mobile
+441,37,Female,Chicago,VIP,Desktop
+442,48,Female,Seattle,Loyal,Desktop
+443,25,Female,Houston,Loyal,Mobile
+444,36,Male,Los Angeles,New,Desktop
+445,46,Female,Houston,Regular,Mobile
+446,70,Female,Seattle,Loyal,Mobile
+447,24,Male,Chicago,New,Tablet
+448,51,Male,Chicago,New,Mobile
+449,44,Female,Houston,New,Tablet
+450,67,Male,New York,Regular,Desktop
+451,59,Female,Houston,Regular,Desktop
+452,38,Female,New York,New,Tablet
+453,54,Male,Seattle,New,Mobile
+454,44,Male,New York,VIP,Desktop
+455,29,Female,New York,New,Desktop
+456,54,Male,Los Angeles,Loyal,Desktop
+457,59,Female,Chicago,VIP,Desktop
+458,30,Male,Los Angeles,Regular,Tablet
+459,47,Female,Chicago,New,Tablet
+460,39,Female,Seattle,Regular,Mobile
+461,57,Female,Houston,Loyal,Mobile
+462,43,Male,Chicago,Regular,Desktop
+463,38,Male,New York,Loyal,Desktop
+464,33,Female,Los Angeles,Loyal,Desktop
+465,55,Male,Los Angeles,Loyal,Tablet
+466,33,Male,New York,VIP,Desktop
+467,28,Female,Seattle,Loyal,Tablet
+468,25,Female,Los Angeles,Regular,Mobile
+469,26,Female,Chicago,VIP,Tablet
+470,56,Female,Houston,VIP,Tablet
+471,69,Male,Chicago,New,Tablet
+472,46,Female,New York,New,Mobile
+473,53,Male,Seattle,Regular,Mobile
+474,38,Female,New York,Regular,Tablet
+475,55,Female,New York,VIP,Mobile
+476,47,Male,Seattle,VIP,Desktop
+477,54,Male,Seattle,VIP,Tablet
+478,69,Female,New York,VIP,Desktop
+479,70,Male,Chicago,New,Mobile
+480,45,Female,New York,New,Mobile
+481,48,Male,Los Angeles,VIP,Mobile
+482,67,Male,Houston,Loyal,Desktop
+483,46,Female,Houston,New,Tablet
+484,60,Male,Los Angeles,New,Mobile
+485,52,Female,Seattle,Regular,Tablet
+486,32,Male,New York,Loyal,Desktop
+487,61,Female,Seattle,VIP,Mobile
+488,33,Female,Los Angeles,Regular,Desktop
+489,30,Male,New York,VIP,Tablet
+490,67,Male,Chicago,Regular,Mobile
+491,24,Male,Houston,New,Mobile
+492,65,Male,Houston,VIP,Mobile
+493,52,Male,New York,Regular,Tablet
+494,36,Male,Seattle,Loyal,Tablet
+495,56,Female,Chicago,Loyal,Mobile
+496,60,Male,Houston,Loyal,Desktop
+497,21,Male,Houston,VIP,Mobile
+498,40,Female,Seattle,Loyal,Tablet
+499,44,Female,Chicago,Loyal,Desktop
+500,29,Female,Chicago,Regular,Desktop
+501,63,Male,Houston,New,Tablet
+502,44,Female,Seattle,Regular,Desktop
+503,33,Female,Chicago,Loyal,Tablet
+504,23,Female,Los Angeles,New,Tablet
+505,64,Male,New York,Loyal,Desktop
+506,61,Male,New York,Regular,Tablet
+507,64,Male,Houston,Regular,Desktop
+508,37,Male,Chicago,Regular,Tablet
+509,25,Female,Chicago,Regular,Desktop
+510,33,Female,Los Angeles,VIP,Desktop
+511,52,Female,Los Angeles,Loyal,Desktop
+512,50,Female,Houston,New,Tablet
+513,48,Female,Chicago,Loyal,Desktop
+514,44,Male,Seattle,Regular,Tablet
+515,27,Male,Los Angeles,VIP,Desktop
+516,27,Male,Los Angeles,Regular,Desktop
+517,54,Male,Houston,Loyal,Desktop
+518,66,Female,Houston,VIP,Mobile
+519,64,Female,Chicago,Regular,Tablet
+520,52,Female,Chicago,New,Tablet
+521,20,Male,New York,New,Desktop
+522,26,Male,New York,Regular,Mobile
+523,31,Female,Los Angeles,New,Tablet
+524,58,Female,Houston,New,Mobile
+525,52,Female,New York,New,Tablet
+526,64,Female,Seattle,Loyal,Mobile
+527,50,Female,Chicago,New,Mobile
+528,51,Male,Chicago,Regular,Tablet
+529,51,Female,Los Angeles,Loyal,Desktop
+530,23,Female,Houston,VIP,Tablet
+531,33,Male,Los Angeles,New,Tablet
+532,59,Male,New York,VIP,Desktop
+533,42,Female,New York,New,Tablet
+534,28,Male,Houston,VIP,Tablet
+535,68,Female,Seattle,New,Tablet
+536,20,Male,Chicago,VIP,Desktop
+537,20,Male,Los Angeles,New,Mobile
+538,38,Male,Chicago,Regular,Tablet
+539,70,Female,New York,Loyal,Mobile
+540,54,Male,Seattle,VIP,Tablet
+541,52,Female,Houston,Regular,Tablet
+542,64,Male,Seattle,Loyal,Mobile
+543,24,Female,Chicago,New,Desktop
+544,56,Female,Los Angeles,New,Tablet
+545,35,Female,Houston,Regular,Desktop
+546,53,Female,Houston,Regular,Tablet
+547,55,Female,New York,Loyal,Mobile
+548,63,Male,New York,Loyal,Mobile
+549,42,Male,Houston,Loyal,Desktop
+550,24,Male,New York,Loyal,Desktop
+551,41,Female,New York,Regular,Mobile
+552,29,Female,Houston,VIP,Mobile
+553,19,Male,Los Angeles,New,Tablet
+554,56,Female,Houston,New,Desktop
+555,44,Female,New York,Regular,Tablet
+556,51,Male,Houston,Regular,Mobile
+557,35,Female,Los Angeles,VIP,Mobile
+558,22,Male,Houston,Loyal,Desktop
+559,37,Female,New York,Loyal,Desktop
+560,33,Female,Seattle,Regular,Desktop
+561,24,Male,Los Angeles,New,Desktop
+562,39,Female,Los Angeles,VIP,Desktop
+563,45,Male,Los Angeles,Loyal,Tablet
+564,62,Male,Houston,Loyal,Mobile
+565,43,Female,Los Angeles,VIP,Tablet
+566,68,Male,Los Angeles,VIP,Desktop
+567,70,Female,Los Angeles,New,Tablet
+568,30,Male,Seattle,New,Tablet
+569,47,Male,Houston,Loyal,Tablet
+570,22,Female,Houston,Regular,Tablet
+571,37,Male,Los Angeles,Regular,Tablet
+572,45,Female,New York,VIP,Tablet
+573,48,Female,Seattle,VIP,Tablet
+574,20,Female,Seattle,New,Mobile
+575,67,Male,Los Angeles,Regular,Tablet
+576,57,Male,Seattle,VIP,Desktop
+577,68,Female,New York,New,Mobile
+578,34,Male,Seattle,Regular,Desktop
+579,41,Female,Houston,Regular,Desktop
+580,19,Female,New York,Loyal,Desktop
+581,23,Male,Chicago,Loyal,Desktop
+582,39,Female,Chicago,VIP,Desktop
+583,48,Male,Houston,VIP,Desktop
+584,22,Female,New York,New,Mobile
+585,39,Male,Chicago,Regular,Tablet
+586,29,Male,Los Angeles,VIP,Desktop
+587,32,Female,Chicago,Regular,Tablet
+588,60,Female,Houston,New,Tablet
+589,57,Male,Houston,VIP,Desktop
+590,18,Male,Chicago,Loyal,Tablet
+591,69,Male,Seattle,New,Tablet
+592,29,Female,Los Angeles,Regular,Desktop
+593,25,Female,Houston,Loyal,Tablet
+594,42,Female,Seattle,New,Desktop
+595,40,Female,Seattle,Regular,Tablet
+596,63,Female,Seattle,New,Tablet
+597,26,Female,New York,Regular,Desktop
+598,25,Male,Los Angeles,Regular,Tablet
+599,42,Female,Seattle,Regular,Tablet
+600,42,Female,Chicago,VIP,Tablet
+601,52,Male,Seattle,Regular,Desktop
+602,36,Male,Chicago,Loyal,Desktop
+603,57,Male,Los Angeles,New,Desktop
+604,26,Male,Houston,VIP,Desktop
+605,61,Female,Houston,VIP,Desktop
+606,28,Male,Seattle,New,Mobile
+607,36,Male,Los Angeles,Regular,Tablet
+608,36,Male,Houston,VIP,Tablet
+609,50,Male,Seattle,New,Desktop
+610,67,Female,Seattle,New,Tablet
+611,46,Male,Houston,New,Tablet
+612,59,Male,Los Angeles,New,Desktop
+613,34,Female,New York,VIP,Mobile
+614,67,Male,Chicago,Loyal,Tablet
+615,57,Female,Chicago,Regular,Mobile
+616,70,Male,New York,Loyal,Tablet
+617,35,Male,Los Angeles,Loyal,Desktop
+618,54,Female,Seattle,New,Mobile
+619,66,Female,New York,Loyal,Tablet
+620,26,Male,Chicago,Regular,Tablet
+621,38,Male,Houston,VIP,Mobile
+622,54,Female,Houston,VIP,Desktop
+623,22,Male,Houston,Loyal,Tablet
+624,41,Female,Houston,Loyal,Tablet
+625,18,Male,Houston,Loyal,Mobile
+626,68,Female,Chicago,VIP,Mobile
+627,49,Female,Los Angeles,Loyal,Desktop
+628,53,Male,Seattle,VIP,Desktop
+629,61,Male,New York,New,Tablet
+630,68,Female,New York,New,Mobile
+631,46,Female,New York,VIP,Mobile
+632,62,Male,Los Angeles,Regular,Desktop
+633,23,Female,Los Angeles,New,Desktop
+634,60,Male,New York,VIP,Tablet
+635,37,Male,Houston,New,Tablet
+636,24,Male,Chicago,VIP,Mobile
+637,26,Male,Seattle,VIP,Mobile
+638,18,Female,New York,VIP,Tablet
+639,26,Female,New York,Regular,Desktop
+640,23,Male,New York,Loyal,Desktop
+641,37,Male,Houston,Regular,Tablet
+642,61,Male,New York,New,Tablet
+643,59,Male,Houston,Loyal,Tablet
+644,31,Male,Houston,VIP,Mobile
+645,23,Male,Chicago,New,Tablet
+646,64,Female,Los Angeles,VIP,Desktop
+647,68,Male,Chicago,Loyal,Tablet
+648,23,Male,Seattle,Loyal,Tablet
+649,19,Female,Chicago,Regular,Tablet
+650,43,Female,New York,Regular,Desktop
+651,42,Male,Chicago,VIP,Tablet
+652,56,Male,Seattle,New,Desktop
+653,38,Male,Houston,VIP,Desktop
+654,52,Male,Houston,New,Mobile
+655,55,Male,New York,Loyal,Mobile
+656,20,Male,Houston,Loyal,Tablet
+657,63,Female,Houston,VIP,Mobile
+658,58,Male,Los Angeles,New,Desktop
+659,23,Male,Chicago,Loyal,Desktop
+660,55,Male,Los Angeles,VIP,Tablet
+661,33,Male,Chicago,New,Desktop
+662,25,Female,Seattle,New,Desktop
+663,60,Male,New York,New,Tablet
+664,26,Male,Chicago,VIP,Desktop
+665,51,Female,Chicago,Loyal,Mobile
+666,65,Female,New York,New,Desktop
+667,69,Female,Los Angeles,New,Desktop
+668,63,Male,Houston,VIP,Tablet
+669,41,Male,Houston,Regular,Desktop
+670,28,Female,New York,New,Mobile
+671,65,Male,New York,New,Mobile
+672,20,Female,Los Angeles,VIP,Mobile
+673,29,Male,Seattle,VIP,Mobile
+674,38,Male,Houston,Loyal,Desktop
+675,70,Male,Seattle,Loyal,Mobile
+676,50,Male,Chicago,Regular,Tablet
+677,20,Female,New York,VIP,Desktop
+678,67,Female,Los Angeles,New,Tablet
+679,47,Male,Los Angeles,Regular,Desktop
+680,54,Female,Seattle,Regular,Desktop
+681,41,Female,Chicago,Regular,Mobile
+682,18,Female,New York,Regular,Tablet
+683,40,Male,Los Angeles,New,Tablet
+684,42,Female,New York,Regular,Tablet
+685,33,Female,Houston,New,Mobile
+686,63,Female,New York,New,Mobile
+687,51,Female,Los Angeles,VIP,Tablet
+688,23,Male,Seattle,Regular,Tablet
+689,70,Female,New York,New,Desktop
+690,60,Male,Chicago,Loyal,Desktop
+691,38,Female,Los Angeles,Loyal,Desktop
+692,35,Male,New York,Regular,Mobile
+693,67,Male,Chicago,New,Mobile
+694,46,Female,Los Angeles,VIP,Mobile
+695,52,Female,Chicago,VIP,Desktop
+696,47,Female,New York,New,Mobile
+697,69,Female,Seattle,New,Mobile
+698,38,Male,New York,Regular,Desktop
+699,43,Male,Los Angeles,Loyal,Mobile
+700,19,Female,Houston,Regular,Mobile
+701,47,Male,Chicago,New,Mobile
+702,21,Male,Chicago,Regular,Desktop
+703,41,Male,Seattle,Loyal,Mobile
+704,19,Male,Chicago,VIP,Mobile
+705,23,Female,New York,New,Desktop
+706,21,Male,Seattle,VIP,Tablet
+707,43,Female,New York,VIP,Tablet
+708,45,Male,Los Angeles,Regular,Mobile
+709,35,Female,Houston,Regular,Mobile
+710,57,Male,Los Angeles,VIP,Desktop
+711,53,Female,New York,New,Desktop
+712,42,Male,Houston,Regular,Tablet
+713,69,Male,Seattle,New,Desktop
+714,68,Female,Houston,VIP,Desktop
+715,54,Female,Houston,Loyal,Mobile
+716,19,Female,Seattle,Regular,Mobile
+717,69,Female,New York,VIP,Tablet
+718,40,Male,Chicago,New,Mobile
+719,60,Male,Los Angeles,New,Mobile
+720,54,Female,Los Angeles,Regular,Mobile
+721,33,Female,Los Angeles,New,Tablet
+722,62,Female,Seattle,Regular,Tablet
+723,30,Female,Seattle,Loyal,Mobile
+724,49,Male,New York,New,Mobile
+725,56,Male,New York,VIP,Mobile
+726,39,Male,Chicago,Loyal,Tablet
+727,29,Female,New York,New,Mobile
+728,55,Male,New York,Loyal,Mobile
+729,41,Female,Seattle,New,Desktop
+730,37,Female,Chicago,Regular,Tablet
+731,45,Female,Los Angeles,Regular,Tablet
+732,53,Female,Chicago,Regular,Desktop
+733,37,Female,Chicago,Regular,Tablet
+734,18,Female,Seattle,New,Mobile
+735,56,Female,Seattle,Regular,Tablet
+736,54,Male,Houston,Regular,Desktop
+737,65,Male,Chicago,Loyal,Desktop
+738,28,Male,Los Angeles,VIP,Mobile
+739,34,Male,Chicago,New,Desktop
+740,34,Male,New York,New,Desktop
+741,46,Female,Chicago,VIP,Desktop
+742,42,Female,Seattle,VIP,Mobile
+743,48,Male,Chicago,VIP,Mobile
+744,69,Male,Los Angeles,New,Desktop
+745,34,Male,New York,Loyal,Mobile
+746,42,Male,New York,New,Desktop
+747,56,Female,New York,VIP,Tablet
+748,28,Female,Chicago,New,Mobile
+749,39,Male,Chicago,VIP,Tablet
+750,53,Female,Los Angeles,Loyal,Mobile
+751,24,Male,Houston,VIP,Mobile
+752,21,Female,New York,VIP,Mobile
+753,36,Female,Chicago,New,Mobile
+754,31,Male,Los Angeles,New,Desktop
+755,25,Female,Houston,VIP,Desktop
+756,60,Female,New York,VIP,Mobile
+757,41,Female,Los Angeles,Regular,Desktop
+758,20,Female,Houston,VIP,Desktop
+759,32,Female,Seattle,New,Mobile
+760,66,Male,New York,Loyal,Tablet
+761,44,Male,Seattle,New,Desktop
+762,70,Female,Seattle,VIP,Tablet
+763,33,Female,Los Angeles,New,Desktop
+764,63,Male,Seattle,Regular,Mobile
+765,66,Female,Chicago,Regular,Mobile
+766,69,Male,Chicago,New,Desktop
+767,23,Female,Chicago,Regular,Tablet
+768,34,Female,New York,New,Desktop
+769,53,Female,Seattle,Loyal,Desktop
+770,51,Female,New York,VIP,Mobile
+771,44,Male,Chicago,New,Mobile
+772,54,Male,Los Angeles,Loyal,Desktop
+773,34,Female,Houston,VIP,Mobile
+774,29,Female,Houston,Regular,Tablet
+775,56,Female,New York,VIP,Desktop
+776,62,Male,New York,VIP,Desktop
+777,41,Male,Los Angeles,Loyal,Desktop
+778,35,Female,New York,Regular,Mobile
+779,37,Female,Los Angeles,Loyal,Tablet
+780,44,Male,Chicago,VIP,Mobile
+781,70,Female,Houston,Loyal,Mobile
+782,50,Male,New York,Loyal,Tablet
+783,50,Female,Chicago,New,Mobile
+784,30,Male,New York,Regular,Mobile
+785,47,Male,Los Angeles,Regular,Desktop
+786,41,Female,Seattle,VIP,Tablet
+787,25,Male,Chicago,Loyal,Desktop
+788,56,Female,Chicago,VIP,Tablet
+789,53,Female,Los Angeles,Regular,Desktop
+790,65,Male,Los Angeles,New,Desktop
+791,21,Male,Seattle,Regular,Mobile
+792,59,Male,Chicago,Loyal,Tablet
+793,44,Male,New York,VIP,Mobile
+794,59,Male,Seattle,New,Mobile
+795,34,Female,Los Angeles,VIP,Desktop
+796,40,Female,Los Angeles,Regular,Desktop
+797,37,Female,Seattle,New,Mobile
+798,50,Female,Seattle,Loyal,Desktop
+799,61,Male,Houston,New,Desktop
+800,35,Female,Los Angeles,Loyal,Tablet
+801,63,Female,Chicago,Regular,Tablet
+802,66,Male,New York,VIP,Tablet
+803,38,Male,New York,VIP,Desktop
+804,34,Female,Houston,VIP,Tablet
+805,20,Male,Los Angeles,Regular,Tablet
+806,52,Female,Los Angeles,Loyal,Mobile
+807,60,Male,Los Angeles,New,Desktop
+808,26,Female,Seattle,Regular,Tablet
+809,39,Male,Chicago,Loyal,Mobile
+810,65,Female,Houston,Loyal,Desktop
+811,34,Female,Houston,New,Desktop
+812,21,Male,Houston,Regular,Tablet
+813,25,Female,Seattle,Loyal,Desktop
+814,21,Male,Chicago,Regular,Desktop
+815,44,Female,Chicago,Loyal,Tablet
+816,29,Male,Houston,Loyal,Tablet
+817,29,Female,New York,New,Desktop
+818,35,Male,Chicago,Regular,Desktop
+819,68,Male,Chicago,VIP,Tablet
+820,45,Female,Houston,VIP,Desktop
+821,18,Male,Seattle,Regular,Tablet
+822,41,Male,Los Angeles,Regular,Mobile
+823,61,Male,Chicago,Regular,Tablet
+824,40,Female,Chicago,New,Desktop
+825,50,Female,Chicago,New,Mobile
+826,37,Female,Houston,Loyal,Desktop
+827,61,Male,Los Angeles,VIP,Desktop
+828,66,Male,Chicago,VIP,Mobile
+829,32,Male,Chicago,Regular,Tablet
+830,19,Male,New York,Loyal,Tablet
+831,59,Male,Houston,Loyal,Tablet
+832,57,Male,Seattle,New,Tablet
+833,24,Male,New York,New,Desktop
+834,46,Female,New York,Loyal,Desktop
+835,62,Male,Chicago,New,Desktop
+836,44,Male,Seattle,Loyal,Tablet
+837,56,Male,Houston,New,Tablet
+838,64,Male,Los Angeles,New,Mobile
+839,49,Male,Seattle,Regular,Desktop
+840,51,Male,Los Angeles,VIP,Desktop
+841,28,Male,Seattle,VIP,Mobile
+842,62,Female,Los Angeles,Regular,Mobile
+843,18,Male,New York,VIP,Mobile
+844,23,Male,New York,Loyal,Tablet
+845,32,Female,Los Angeles,Loyal,Desktop
+846,21,Male,Chicago,New,Desktop
+847,41,Female,Houston,New,Mobile
+848,66,Male,New York,Regular,Tablet
+849,59,Male,Los Angeles,Loyal,Desktop
+850,57,Female,New York,Loyal,Desktop
+851,29,Male,Houston,VIP,Desktop
+852,35,Female,Houston,VIP,Tablet
+853,69,Male,New York,Regular,Tablet
+854,64,Male,Chicago,New,Desktop
+855,55,Female,Seattle,VIP,Mobile
+856,57,Female,Los Angeles,New,Tablet
+857,64,Male,Houston,VIP,Mobile
+858,44,Female,New York,New,Desktop
+859,59,Female,New York,Regular,Tablet
+860,39,Male,Houston,Regular,Desktop
+861,40,Female,Chicago,New,Mobile
+862,59,Male,Seattle,VIP,Desktop
+863,28,Male,Houston,Loyal,Mobile
+864,39,Female,New York,Regular,Tablet
+865,59,Female,Houston,Regular,Mobile
+866,47,Female,Seattle,VIP,Mobile
+867,49,Female,Los Angeles,New,Desktop
+868,65,Male,New York,VIP,Desktop
+869,20,Male,New York,Loyal,Tablet
+870,53,Male,Houston,Loyal,Desktop
+871,70,Male,Chicago,VIP,Desktop
+872,53,Female,Los Angeles,VIP,Mobile
+873,24,Male,New York,Loyal,Desktop
+874,58,Female,Seattle,Loyal,Tablet
+875,24,Male,Chicago,VIP,Mobile
+876,70,Female,New York,Loyal,Tablet
+877,30,Male,New York,VIP,Mobile
+878,47,Male,Los Angeles,New,Desktop
+879,20,Male,Houston,VIP,Tablet
+880,55,Male,Houston,New,Tablet
+881,65,Male,Seattle,VIP,Tablet
+882,48,Male,Seattle,Regular,Tablet
+883,70,Male,New York,VIP,Tablet
+884,56,Female,Seattle,VIP,Desktop
+885,56,Male,Los Angeles,VIP,Desktop
+886,36,Female,Chicago,Regular,Desktop
+887,56,Female,Seattle,Loyal,Tablet
+888,65,Male,Chicago,Regular,Tablet
+889,63,Female,Los Angeles,Regular,Tablet
+890,59,Male,Seattle,Loyal,Tablet
+891,25,Female,Seattle,VIP,Tablet
+892,54,Female,Seattle,Loyal,Desktop
+893,69,Male,Seattle,New,Mobile
+894,42,Male,New York,New,Mobile
+895,35,Male,Los Angeles,Loyal,Mobile
+896,21,Female,Chicago,New,Desktop
+897,70,Female,New York,Regular,Tablet
+898,59,Female,Chicago,Loyal,Tablet
+899,60,Male,Houston,VIP,Desktop
+900,68,Female,Seattle,New,Mobile
+901,65,Female,Chicago,VIP,Mobile
+902,58,Female,Seattle,Regular,Tablet
+903,30,Female,Houston,Regular,Tablet
+904,22,Male,Chicago,New,Desktop
+905,20,Female,Los Angeles,Loyal,Mobile
+906,28,Female,New York,Loyal,Desktop
+907,63,Male,New York,Regular,Desktop
+908,56,Male,Seattle,Loyal,Desktop
+909,68,Female,New York,Loyal,Tablet
+910,32,Male,Seattle,New,Tablet
+911,28,Female,Seattle,VIP,Mobile
+912,40,Male,Chicago,Loyal,Desktop
+913,41,Female,Chicago,VIP,Tablet
+914,70,Male,New York,Loyal,Desktop
+915,33,Male,New York,Loyal,Desktop
+916,68,Male,Houston,Loyal,Tablet
+917,64,Female,New York,Loyal,Tablet
+918,69,Female,Houston,New,Desktop
+919,59,Male,Los Angeles,New,Mobile
+920,28,Male,New York,Regular,Tablet
+921,58,Male,Houston,New,Mobile
+922,52,Female,New York,Regular,Mobile
+923,47,Female,New York,New,Mobile
+924,21,Male,Los Angeles,New,Tablet
+925,70,Male,Los Angeles,VIP,Desktop
+926,46,Female,Houston,Loyal,Mobile
+927,42,Male,Seattle,New,Tablet
+928,64,Male,Seattle,New,Tablet
+929,22,Female,Seattle,New,Desktop
+930,68,Female,Seattle,New,Desktop
+931,66,Female,Houston,VIP,Tablet
+932,19,Female,Chicago,Regular,Mobile
+933,65,Female,Seattle,Loyal,Tablet
+934,27,Female,Los Angeles,New,Tablet
+935,53,Male,New York,New,Mobile
+936,54,Female,Seattle,New,Desktop
+937,31,Female,Chicago,VIP,Tablet
+938,50,Male,Chicago,Regular,Mobile
+939,57,Female,Chicago,New,Mobile
+940,60,Male,Seattle,VIP,Tablet
+941,53,Male,Los Angeles,New,Desktop
+942,24,Male,Seattle,VIP,Desktop
+943,40,Male,Chicago,New,Desktop
+944,57,Male,Chicago,Loyal,Desktop
+945,46,Female,Seattle,Loyal,Tablet
+946,55,Male,Seattle,Loyal,Desktop
+947,45,Male,New York,Loyal,Mobile
+948,68,Male,Houston,Loyal,Desktop
+949,26,Female,Houston,VIP,Desktop
+950,40,Female,Houston,New,Mobile
+951,59,Male,Los Angeles,Regular,Tablet
+952,30,Female,New York,New,Mobile
+953,50,Male,Seattle,VIP,Tablet
+954,31,Male,Seattle,Loyal,Tablet
+955,52,Female,Chicago,Loyal,Desktop
+956,32,Female,Chicago,VIP,Tablet
+957,50,Male,Houston,Loyal,Tablet
+958,18,Male,Seattle,Regular,Tablet
+959,26,Female,Chicago,Regular,Tablet
+960,54,Male,Houston,Loyal,Mobile
+961,32,Female,Chicago,New,Desktop
+962,41,Male,New York,Regular,Tablet
+963,68,Female,Houston,VIP,Desktop
+964,20,Male,Los Angeles,New,Tablet
+965,51,Female,Los Angeles,Regular,Desktop
+966,59,Female,Los Angeles,New,Tablet
+967,34,Female,Chicago,VIP,Desktop
+968,70,Female,Houston,VIP,Tablet
+969,18,Male,Houston,Regular,Mobile
+970,22,Female,Chicago,Regular,Mobile
+971,28,Female,Seattle,New,Tablet
+972,32,Female,Los Angeles,New,Desktop
+973,61,Female,Houston,Regular,Tablet
+974,28,Female,New York,Regular,Mobile
+975,26,Male,Chicago,New,Tablet
+976,27,Male,Chicago,Loyal,Mobile
+977,51,Female,Seattle,New,Tablet
+978,64,Female,New York,Regular,Desktop
+979,56,Female,Houston,Regular,Mobile
+980,44,Male,Seattle,Regular,Tablet
+981,60,Female,Chicago,Loyal,Desktop
+982,56,Male,Chicago,VIP,Desktop
+983,26,Male,New York,Regular,Tablet
+984,50,Female,Chicago,New,Mobile
+985,48,Male,Seattle,New,Mobile
+986,48,Male,Seattle,New,Tablet
+987,59,Female,Seattle,VIP,Desktop
+988,20,Female,Chicago,VIP,Desktop
+989,40,Male,Houston,Regular,Desktop
+990,48,Male,New York,Loyal,Tablet
+991,52,Female,Los Angeles,Regular,Mobile
+992,63,Male,Seattle,New,Tablet
+993,18,Female,Chicago,Loyal,Desktop
+994,41,Male,Chicago,VIP,Tablet
+995,55,Female,Los Angeles,VIP,Tablet
+996,41,Female,Houston,Regular,Desktop
+997,53,Female,Chicago,Loyal,Tablet
+998,53,Female,Los Angeles,Loyal,Tablet
+999,40,Female,Chicago,New,Tablet
+1000,32,Female,Chicago,New,Mobile
+1001,50,Female,Los Angeles,New,Mobile
+1002,42,Male,New York,Regular,Desktop
+1003,56,Female,New York,New,Desktop
+1004,32,Female,New York,New,Tablet
+1005,42,Female,Seattle,Loyal,Tablet
+1006,56,Male,Chicago,VIP,Desktop
+1007,18,Male,Seattle,Loyal,Mobile
+1008,20,Male,Seattle,Regular,Tablet
+1009,20,Female,Chicago,New,Mobile
+1010,23,Female,Houston,Loyal,Tablet
+1011,43,Female,Seattle,Regular,Tablet
+1012,18,Male,New York,Loyal,Tablet
+1013,53,Female,Los Angeles,Loyal,Mobile
+1014,56,Male,Houston,VIP,Tablet
+1015,18,Female,Chicago,VIP,Tablet
+1016,24,Male,Seattle,Loyal,Desktop
+1017,25,Female,Seattle,Loyal,Tablet
+1018,46,Female,Seattle,VIP,Mobile
+1019,66,Female,Houston,VIP,Tablet
+1020,19,Female,New York,Loyal,Mobile
+1021,42,Male,Chicago,Loyal,Desktop
+1022,40,Male,Los Angeles,Regular,Desktop
+1023,23,Female,Los Angeles,New,Tablet
+1024,29,Female,Los Angeles,Loyal,Mobile
+1025,54,Female,Chicago,Regular,Desktop
+1026,65,Male,Chicago,Regular,Desktop
+1027,31,Male,Chicago,Regular,Tablet
+1028,40,Male,New York,New,Mobile
+1029,61,Female,Seattle,New,Tablet
+1030,20,Female,Los Angeles,Loyal,Desktop
+1031,54,Female,Houston,Regular,Tablet
+1032,35,Female,Chicago,Regular,Mobile
+1033,51,Female,Houston,New,Tablet
+1034,40,Female,Chicago,VIP,Mobile
+1035,62,Female,Los Angeles,New,Mobile
+1036,61,Male,Houston,New,Desktop
+1037,41,Female,Chicago,Loyal,Mobile
+1038,35,Female,Seattle,Loyal,Desktop
+1039,29,Female,Houston,Regular,Desktop
+1040,62,Female,Los Angeles,VIP,Desktop
+1041,46,Male,Seattle,Regular,Tablet
+1042,61,Male,New York,Loyal,Mobile
+1043,53,Female,Houston,Regular,Mobile
+1044,69,Male,Houston,New,Mobile
+1045,44,Female,Chicago,Loyal,Desktop
+1046,37,Female,Seattle,New,Desktop
+1047,24,Male,New York,Regular,Desktop
+1048,48,Male,Houston,Loyal,Desktop
+1049,41,Female,Seattle,Loyal,Desktop
+1050,19,Female,New York,Loyal,Tablet
+1051,56,Male,Seattle,Regular,Desktop
+1052,40,Female,Seattle,VIP,Tablet
+1053,46,Male,Houston,Loyal,Desktop
+1054,58,Male,Chicago,Loyal,Desktop
+1055,58,Female,New York,New,Mobile
+1056,39,Male,Los Angeles,Loyal,Tablet
+1057,36,Female,Seattle,VIP,Desktop
+1058,46,Female,Seattle,VIP,Desktop
+1059,28,Male,New York,Regular,Tablet
+1060,33,Female,New York,Regular,Mobile
+1061,43,Male,New York,New,Desktop
+1062,53,Male,New York,VIP,Tablet
+1063,66,Male,New York,Loyal,Tablet
+1064,27,Male,Houston,Loyal,Mobile
+1065,33,Female,Houston,Regular,Mobile
+1066,51,Male,New York,New,Tablet
+1067,40,Female,Houston,VIP,Tablet
+1068,35,Female,Chicago,Regular,Tablet
+1069,56,Female,Seattle,VIP,Tablet
+1070,58,Female,Los Angeles,VIP,Tablet
+1071,32,Male,Houston,Loyal,Desktop
+1072,44,Female,Chicago,Loyal,Mobile
+1073,18,Male,Los Angeles,Loyal,Desktop
+1074,52,Male,Houston,VIP,Desktop
+1075,18,Female,Los Angeles,Regular,Mobile
+1076,53,Female,Chicago,VIP,Tablet
+1077,45,Female,Chicago,Regular,Tablet
+1078,65,Female,Houston,Regular,Desktop
+1079,23,Female,Chicago,Loyal,Desktop
+1080,59,Female,Houston,Regular,Mobile
+1081,29,Male,Los Angeles,New,Tablet
+1082,47,Female,Los Angeles,VIP,Mobile
+1083,38,Male,Chicago,New,Tablet
+1084,19,Male,New York,Loyal,Desktop
+1085,26,Female,New York,Regular,Mobile
+1086,27,Male,Houston,Regular,Desktop
+1087,44,Female,Houston,Loyal,Desktop
+1088,62,Male,Los Angeles,New,Mobile
+1089,21,Female,Houston,New,Tablet
+1090,48,Male,Chicago,Loyal,Desktop
+1091,18,Male,Chicago,VIP,Desktop
+1092,33,Male,Chicago,VIP,Tablet
+1093,67,Male,Seattle,Regular,Desktop
+1094,42,Female,Los Angeles,Regular,Tablet
+1095,64,Male,Seattle,New,Desktop
+1096,48,Female,Chicago,Loyal,Mobile
+1097,60,Male,New York,Regular,Tablet
+1098,45,Female,New York,Regular,Desktop
+1099,55,Male,Houston,Regular,Mobile
+1100,20,Female,Seattle,Regular,Desktop
+1101,67,Male,Chicago,Regular,Desktop
+1102,23,Female,New York,New,Desktop
+1103,59,Male,Seattle,New,Mobile
+1104,49,Male,Los Angeles,Loyal,Desktop
+1105,64,Male,New York,VIP,Desktop
+1106,64,Male,Los Angeles,New,Desktop
+1107,63,Female,Seattle,Loyal,Tablet
+1108,62,Female,Chicago,Regular,Tablet
+1109,40,Female,Houston,Loyal,Tablet
+1110,53,Male,New York,Regular,Desktop
+1111,36,Female,Seattle,Loyal,Desktop
+1112,18,Female,Chicago,New,Tablet
+1113,41,Male,Los Angeles,New,Tablet
+1114,52,Female,Chicago,VIP,Tablet
+1115,27,Female,Los Angeles,VIP,Tablet
+1116,38,Male,New York,New,Mobile
+1117,26,Male,New York,Regular,Mobile
+1118,49,Male,New York,New,Tablet
+1119,59,Female,Houston,Loyal,Mobile
+1120,41,Male,Seattle,New,Mobile
+1121,31,Female,New York,VIP,Tablet
+1122,21,Female,Seattle,VIP,Desktop
+1123,68,Male,Seattle,Loyal,Tablet
+1124,20,Male,Los Angeles,New,Mobile
+1125,51,Male,New York,Regular,Tablet
+1126,42,Male,Chicago,Regular,Tablet
+1127,58,Male,Seattle,VIP,Tablet
+1128,24,Female,Houston,VIP,Mobile
+1129,28,Male,Seattle,VIP,Tablet
+1130,39,Male,Seattle,VIP,Desktop
+1131,38,Female,Los Angeles,VIP,Tablet
+1132,45,Female,Seattle,Regular,Tablet
+1133,52,Male,Houston,Loyal,Desktop
+1134,46,Female,Houston,New,Tablet
+1135,20,Female,Seattle,New,Tablet
+1136,26,Female,New York,Loyal,Mobile
+1137,31,Female,New York,Loyal,Tablet
+1138,50,Male,New York,New,Desktop
+1139,40,Male,Chicago,Loyal,Desktop
+1140,55,Male,Chicago,Loyal,Desktop
+1141,23,Female,Seattle,Regular,Tablet
+1142,22,Female,Houston,Regular,Desktop
+1143,70,Male,Seattle,Loyal,Mobile
+1144,64,Female,New York,New,Desktop
+1145,40,Female,Houston,New,Mobile
+1146,65,Male,Houston,New,Desktop
+1147,51,Male,Los Angeles,Regular,Desktop
+1148,50,Male,Chicago,New,Tablet
+1149,64,Female,Houston,New,Mobile
+1150,45,Female,Houston,Regular,Mobile
+1151,39,Male,Houston,New,Tablet
+1152,43,Female,New York,VIP,Tablet
+1153,45,Male,Chicago,VIP,Tablet
+1154,30,Female,Houston,Regular,Tablet
+1155,57,Male,Chicago,New,Desktop
+1156,67,Female,Los Angeles,New,Mobile
+1157,60,Female,Houston,Loyal,Desktop
+1158,30,Female,Los Angeles,New,Desktop
+1159,28,Female,Seattle,VIP,Tablet
+1160,27,Female,New York,Regular,Mobile
+1161,61,Female,Chicago,New,Mobile
+1162,65,Male,Chicago,Regular,Desktop
+1163,18,Female,New York,Loyal,Desktop
+1164,48,Male,Los Angeles,Regular,Tablet
+1165,52,Male,Chicago,Loyal,Tablet
+1166,48,Male,New York,VIP,Tablet
+1167,60,Male,Los Angeles,Regular,Mobile
+1168,36,Male,Seattle,Loyal,Mobile
+1169,47,Male,New York,VIP,Tablet
+1170,35,Female,New York,New,Desktop
+1171,59,Female,Chicago,VIP,Tablet
+1172,63,Male,Los Angeles,VIP,Tablet
+1173,52,Male,Chicago,Regular,Tablet
+1174,47,Male,New York,Regular,Tablet
+1175,37,Female,Houston,VIP,Tablet
+1176,28,Male,Los Angeles,Loyal,Desktop
+1177,58,Female,Chicago,Loyal,Mobile
+1178,58,Female,Houston,New,Tablet
+1179,35,Male,Chicago,Loyal,Desktop
+1180,60,Male,New York,VIP,Tablet
+1181,61,Male,Houston,Regular,Tablet
+1182,27,Female,Los Angeles,Loyal,Desktop
+1183,52,Male,Chicago,Regular,Tablet
+1184,52,Male,Chicago,Loyal,Tablet
+1185,63,Male,Houston,Regular,Tablet
+1186,54,Male,Los Angeles,New,Tablet
+1187,52,Male,Chicago,Loyal,Mobile
+1188,64,Male,Los Angeles,VIP,Desktop
+1189,37,Female,Los Angeles,Regular,Mobile
+1190,24,Male,Chicago,New,Tablet
+1191,57,Female,Seattle,Regular,Tablet
+1192,32,Male,New York,Loyal,Mobile
+1193,62,Female,Chicago,VIP,Tablet
+1194,59,Female,Chicago,VIP,Desktop
+1195,48,Male,Chicago,Regular,Mobile
+1196,20,Female,New York,Loyal,Desktop
+1197,32,Male,Chicago,New,Mobile
+1198,46,Female,Los Angeles,VIP,Mobile
+1199,45,Female,New York,VIP,Tablet
+1200,38,Female,Seattle,New,Tablet
+1201,24,Female,Houston,New,Mobile
+1202,51,Female,New York,VIP,Tablet
+1203,66,Male,Chicago,Loyal,Desktop
+1204,43,Female,Los Angeles,VIP,Mobile
+1205,45,Female,Seattle,New,Tablet
+1206,51,Male,Houston,VIP,Mobile
+1207,64,Male,Chicago,Regular,Desktop
+1208,44,Female,Houston,New,Mobile
+1209,47,Male,Houston,New,Desktop
+1210,38,Male,New York,New,Mobile
+1211,63,Female,Los Angeles,New,Tablet
+1212,63,Female,Seattle,Regular,Desktop
+1213,53,Female,New York,Regular,Desktop
+1214,54,Male,Chicago,Regular,Mobile
+1215,67,Male,Houston,Loyal,Desktop
+1216,64,Female,Los Angeles,Regular,Mobile
+1217,26,Male,New York,Loyal,Mobile
+1218,47,Female,Houston,New,Tablet
+1219,49,Male,Chicago,VIP,Desktop
+1220,44,Female,New York,New,Mobile
+1221,53,Female,Seattle,Regular,Mobile
+1222,29,Male,New York,Loyal,Mobile
+1223,27,Male,Seattle,Loyal,Desktop
+1224,23,Male,New York,VIP,Mobile
+1225,28,Female,Seattle,Regular,Desktop
+1226,65,Female,New York,New,Desktop
+1227,38,Female,Houston,New,Desktop
+1228,53,Male,Los Angeles,VIP,Mobile
+1229,25,Female,Los Angeles,VIP,Tablet
+1230,31,Male,Seattle,New,Mobile
+1231,54,Male,Houston,Loyal,Desktop
+1232,56,Female,Los Angeles,Loyal,Mobile
+1233,57,Female,Seattle,VIP,Desktop
+1234,69,Male,Seattle,Regular,Tablet
+1235,36,Male,New York,New,Mobile
+1236,47,Male,Chicago,VIP,Desktop
+1237,20,Female,Los Angeles,Regular,Mobile
+1238,58,Male,Los Angeles,Loyal,Mobile
+1239,37,Female,Seattle,Loyal,Mobile
+1240,25,Female,Los Angeles,VIP,Tablet
+1241,54,Male,Chicago,Regular,Desktop
+1242,39,Female,Houston,New,Tablet
+1243,26,Female,Chicago,VIP,Tablet
+1244,39,Female,Houston,New,Tablet
+1245,37,Female,Seattle,New,Mobile
+1246,54,Female,Los Angeles,New,Mobile
+1247,35,Male,Los Angeles,VIP,Tablet
+1248,52,Male,Seattle,VIP,Mobile
+1249,56,Male,Los Angeles,Loyal,Tablet
+1250,20,Female,Houston,New,Desktop
+1251,33,Female,Houston,Loyal,Mobile
+1252,51,Female,Chicago,New,Desktop
+1253,68,Male,Chicago,New,Desktop
+1254,50,Male,Houston,Regular,Mobile
+1255,39,Female,Seattle,Loyal,Desktop
+1256,27,Male,Seattle,Regular,Mobile
+1257,64,Male,Houston,VIP,Tablet
+1258,51,Male,New York,Loyal,Mobile
+1259,61,Male,Los Angeles,VIP,Mobile
+1260,24,Female,New York,Loyal,Tablet
+1261,31,Female,Chicago,Regular,Desktop
+1262,35,Female,Houston,New,Desktop
+1263,27,Male,Los Angeles,New,Mobile
+1264,57,Male,Chicago,Loyal,Tablet
+1265,38,Female,Chicago,Loyal,Tablet
+1266,33,Male,New York,Loyal,Tablet
+1267,39,Female,New York,Regular,Mobile
+1268,48,Male,New York,VIP,Mobile
+1269,23,Female,Houston,Regular,Tablet
+1270,56,Female,Seattle,Loyal,Desktop
+1271,39,Male,Seattle,New,Desktop
+1272,54,Male,New York,VIP,Mobile
+1273,47,Female,Houston,VIP,Mobile
+1274,32,Male,Seattle,Loyal,Desktop
+1275,43,Male,Los Angeles,Loyal,Desktop
+1276,49,Male,New York,VIP,Mobile
+1277,40,Female,Houston,Regular,Desktop
+1278,67,Female,Seattle,Regular,Tablet
+1279,24,Female,New York,Loyal,Tablet
+1280,59,Male,Los Angeles,VIP,Desktop
+1281,55,Female,Chicago,Regular,Tablet
+1282,28,Female,Houston,New,Desktop
+1283,31,Female,Houston,Loyal,Tablet
+1284,62,Male,Chicago,New,Tablet
+1285,63,Female,New York,VIP,Desktop
+1286,53,Male,Houston,Regular,Desktop
+1287,43,Male,Seattle,New,Tablet
+1288,70,Female,Los Angeles,VIP,Tablet
+1289,60,Male,New York,Regular,Mobile
+1290,55,Male,Chicago,Regular,Desktop
+1291,52,Female,Houston,VIP,Mobile
+1292,31,Female,Los Angeles,Loyal,Desktop
+1293,63,Female,New York,New,Tablet
+1294,50,Female,Chicago,Loyal,Mobile
+1295,41,Male,New York,Loyal,Mobile
+1296,36,Male,Chicago,VIP,Tablet
+1297,55,Female,Los Angeles,VIP,Desktop
+1298,42,Female,Seattle,Regular,Tablet
+1299,29,Female,Chicago,Regular,Tablet
+1300,42,Female,Houston,Regular,Desktop
+1301,60,Male,Chicago,New,Mobile
+1302,59,Male,Chicago,VIP,Tablet
+1303,45,Male,New York,Regular,Tablet
+1304,69,Female,Houston,VIP,Tablet
+1305,29,Female,Seattle,VIP,Tablet
+1306,70,Female,Houston,Loyal,Mobile
+1307,29,Female,Seattle,New,Tablet
+1308,49,Male,Seattle,Loyal,Desktop
+1309,52,Female,New York,New,Tablet
+1310,48,Female,New York,VIP,Tablet
+1311,23,Male,Seattle,Loyal,Desktop
+1312,51,Male,Seattle,New,Mobile
+1313,48,Male,Seattle,Loyal,Tablet
+1314,21,Female,Seattle,New,Desktop
+1315,47,Female,Seattle,Loyal,Desktop
+1316,40,Female,Los Angeles,Regular,Mobile
+1317,62,Female,Seattle,Loyal,Mobile
+1318,58,Female,Seattle,Regular,Tablet
+1319,21,Female,Seattle,New,Desktop
+1320,49,Male,Chicago,New,Desktop
+1321,34,Male,Seattle,Loyal,Desktop
+1322,34,Male,New York,Regular,Tablet
+1323,65,Male,Houston,Loyal,Mobile
+1324,34,Male,Houston,Regular,Tablet
+1325,20,Female,New York,Regular,Tablet
+1326,70,Male,Houston,VIP,Desktop
+1327,33,Female,Chicago,Regular,Tablet
+1328,64,Female,New York,Loyal,Mobile
+1329,21,Male,Houston,VIP,Desktop
+1330,37,Female,Seattle,Regular,Desktop
+1331,61,Female,Houston,Loyal,Mobile
+1332,51,Female,New York,Loyal,Desktop
+1333,42,Female,Seattle,New,Mobile
+1334,52,Female,Houston,Loyal,Desktop
+1335,35,Female,New York,Loyal,Tablet
+1336,55,Female,Houston,Regular,Tablet
+1337,61,Male,Seattle,Loyal,Tablet
+1338,62,Male,Los Angeles,New,Tablet
+1339,18,Male,New York,VIP,Mobile
+1340,51,Male,Houston,Loyal,Mobile
+1341,64,Female,Los Angeles,Regular,Mobile
+1342,19,Male,New York,Regular,Tablet
+1343,58,Male,New York,New,Tablet
+1344,26,Female,Seattle,Regular,Mobile
+1345,62,Male,Los Angeles,Loyal,Desktop
+1346,60,Male,Houston,Loyal,Desktop
+1347,62,Female,Los Angeles,Regular,Mobile
+1348,35,Male,Houston,VIP,Desktop
+1349,21,Female,Los Angeles,Regular,Desktop
+1350,22,Female,Chicago,VIP,Mobile
+1351,59,Female,New York,Regular,Tablet
+1352,67,Female,Chicago,New,Desktop
+1353,63,Female,New York,New,Mobile
+1354,22,Female,Houston,New,Desktop
+1355,27,Male,New York,VIP,Desktop
+1356,27,Female,Houston,New,Tablet
+1357,63,Female,Houston,VIP,Desktop
+1358,64,Male,Seattle,Regular,Mobile
+1359,42,Female,New York,Loyal,Desktop
+1360,61,Female,Houston,New,Tablet
+1361,59,Male,Los Angeles,Loyal,Mobile
+1362,47,Female,Chicago,Regular,Tablet
+1363,20,Female,Chicago,Loyal,Tablet
+1364,42,Male,Los Angeles,VIP,Mobile
+1365,58,Female,Chicago,Regular,Mobile
+1366,30,Male,Seattle,Regular,Desktop
+1367,42,Male,Seattle,Loyal,Desktop
+1368,52,Female,New York,New,Desktop
+1369,21,Female,New York,VIP,Mobile
+1370,31,Female,Seattle,Regular,Tablet
+1371,55,Male,New York,New,Tablet
+1372,27,Female,New York,VIP,Tablet
+1373,20,Male,Chicago,New,Mobile
+1374,58,Male,Los Angeles,New,Desktop
+1375,57,Male,Seattle,New,Mobile
+1376,25,Female,Seattle,Regular,Mobile
+1377,69,Male,Houston,Loyal,Tablet
+1378,61,Female,Los Angeles,New,Tablet
+1379,54,Male,Los Angeles,Regular,Mobile
+1380,55,Male,Los Angeles,New,Mobile
+1381,35,Male,Houston,Regular,Tablet
+1382,41,Male,Houston,Regular,Tablet
+1383,20,Male,New York,VIP,Mobile
+1384,19,Female,New York,New,Mobile
+1385,29,Male,Seattle,Loyal,Desktop
+1386,62,Female,Chicago,Regular,Mobile
+1387,58,Female,Seattle,VIP,Desktop
+1388,33,Male,Seattle,New,Tablet
+1389,29,Female,Seattle,New,Tablet
+1390,70,Female,Los Angeles,VIP,Mobile
+1391,53,Male,Chicago,New,Tablet
+1392,24,Female,Seattle,Regular,Desktop
+1393,67,Male,Los Angeles,New,Mobile
+1394,25,Male,Houston,VIP,Mobile
+1395,28,Male,New York,Loyal,Desktop
+1396,31,Female,Los Angeles,Loyal,Tablet
+1397,69,Female,New York,New,Tablet
+1398,21,Male,Chicago,New,Desktop
+1399,50,Male,New York,Regular,Tablet
+1400,46,Female,Houston,Regular,Tablet
+1401,61,Female,Chicago,New,Desktop
+1402,32,Male,Chicago,VIP,Mobile
+1403,42,Male,New York,VIP,Tablet
+1404,49,Male,Houston,Regular,Mobile
+1405,57,Female,Chicago,VIP,Desktop
+1406,26,Female,Chicago,Loyal,Desktop
+1407,30,Female,Chicago,New,Tablet
+1408,54,Male,Los Angeles,Regular,Mobile
+1409,47,Female,Houston,Regular,Desktop
+1410,32,Female,Seattle,Regular,Tablet
+1411,57,Male,Seattle,Regular,Mobile
+1412,44,Female,Chicago,VIP,Desktop
+1413,35,Male,Houston,Regular,Mobile
+1414,38,Female,Seattle,Regular,Tablet
+1415,27,Male,Houston,New,Mobile
+1416,48,Male,Houston,VIP,Desktop
+1417,69,Male,Houston,VIP,Mobile
+1418,23,Male,Houston,Regular,Mobile
+1419,40,Female,Chicago,New,Mobile
+1420,48,Female,Chicago,VIP,Tablet
+1421,65,Male,Houston,VIP,Mobile
+1422,63,Female,Chicago,Loyal,Tablet
+1423,47,Male,New York,VIP,Tablet
+1424,39,Male,Los Angeles,VIP,Desktop
+1425,62,Male,New York,Loyal,Tablet
+1426,21,Female,New York,New,Desktop
+1427,41,Female,Seattle,New,Desktop
+1428,41,Male,Seattle,New,Tablet
+1429,63,Male,Chicago,Loyal,Mobile
+1430,52,Male,Houston,Regular,Tablet
+1431,66,Male,Los Angeles,Loyal,Desktop
+1432,50,Female,Los Angeles,New,Mobile
+1433,41,Female,Houston,VIP,Tablet
+1434,51,Male,Houston,Loyal,Desktop
+1435,57,Female,New York,Regular,Desktop
+1436,23,Male,Houston,Regular,Desktop
+1437,22,Male,Chicago,Loyal,Mobile
+1438,62,Male,Houston,Regular,Mobile
+1439,51,Male,Los Angeles,VIP,Tablet
+1440,52,Male,Houston,Loyal,Desktop
+1441,46,Male,Los Angeles,Regular,Mobile
+1442,19,Male,Seattle,Loyal,Desktop
+1443,55,Female,Los Angeles,VIP,Tablet
+1444,60,Female,Houston,Loyal,Tablet
+1445,26,Female,Chicago,Loyal,Mobile
+1446,48,Female,Los Angeles,New,Mobile
+1447,40,Female,Houston,Regular,Tablet
+1448,28,Female,Chicago,Regular,Tablet
+1449,62,Male,Chicago,Regular,Mobile
+1450,20,Female,Seattle,Regular,Desktop
+1451,34,Female,Chicago,Regular,Tablet
+1452,63,Male,Los Angeles,Loyal,Mobile
+1453,41,Female,Seattle,Regular,Tablet
+1454,37,Male,New York,VIP,Desktop
+1455,67,Male,Houston,Loyal,Mobile
+1456,18,Female,Los Angeles,VIP,Desktop
+1457,66,Male,Seattle,VIP,Desktop
+1458,62,Male,Houston,New,Mobile
+1459,61,Male,Los Angeles,New,Desktop
+1460,57,Male,Houston,Loyal,Mobile
+1461,38,Male,Seattle,Regular,Tablet
+1462,51,Male,Los Angeles,Regular,Mobile
+1463,23,Female,New York,VIP,Mobile
+1464,49,Female,Seattle,New,Tablet
+1465,41,Female,Chicago,VIP,Desktop
+1466,42,Female,New York,Loyal,Desktop
+1467,40,Female,Houston,New,Mobile
+1468,64,Female,Houston,VIP,Desktop
+1469,28,Female,Houston,Regular,Tablet
+1470,56,Male,Chicago,Regular,Desktop
+1471,48,Female,New York,VIP,Mobile
+1472,18,Female,Los Angeles,VIP,Mobile
+1473,53,Female,Seattle,Regular,Mobile
+1474,29,Female,Los Angeles,VIP,Mobile
+1475,70,Female,Seattle,Loyal,Desktop
+1476,53,Female,Chicago,New,Mobile
+1477,27,Female,Los Angeles,VIP,Mobile
+1478,59,Female,Houston,Regular,Desktop
+1479,62,Male,New York,New,Desktop
+1480,49,Male,Seattle,Loyal,Tablet
+1481,48,Female,Los Angeles,VIP,Tablet
+1482,70,Male,Los Angeles,New,Desktop
+1483,28,Male,Chicago,Loyal,Desktop
+1484,62,Male,Los Angeles,Regular,Mobile
+1485,35,Female,Houston,Loyal,Mobile
+1486,36,Female,Seattle,New,Tablet
+1487,30,Male,New York,Regular,Tablet
+1488,38,Female,Los Angeles,Loyal,Tablet
+1489,62,Female,New York,Loyal,Mobile
+1490,18,Male,Seattle,Loyal,Desktop
+1491,67,Female,Houston,Loyal,Mobile
+1492,24,Male,Chicago,Regular,Mobile
+1493,68,Male,Houston,VIP,Mobile
+1494,25,Male,New York,VIP,Desktop
+1495,37,Female,Chicago,VIP,Tablet
+1496,51,Female,Chicago,Loyal,Mobile
+1497,65,Male,Chicago,Regular,Tablet
+1498,27,Male,Los Angeles,Regular,Mobile
+1499,26,Male,Houston,New,Mobile
+1500,19,Female,Houston,New,Mobile
