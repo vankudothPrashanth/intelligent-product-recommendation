@@ -86,7 +86,7 @@ using a weighted scoring approach.
 
 Final Score:
 
-Hybrid Score = 0.6 × Collaborative Score + 0.4 × Content Score
+Hybrid Score = 0.6 × Normalized CF Score + 0.4 × Normalized Content Score
 
 The scores were normalized before combining them.
 
@@ -191,7 +191,7 @@ The recommendation models, evaluation, cold-start handling,
 FastAPI backend, and Gradio user interface have been implemented
 and tested.
 
-## 14. Evaluation Results
+## 13. Evaluation Results
 
 The models were evaluated using Precision@10, Recall@10 and NDCG@10.
 
@@ -209,7 +209,7 @@ per customer as the test target.
 The Hybrid model combines Collaborative Filtering and
 Content-Based Filtering using a 0.6 / 0.4 weighting strategy.
 
-## 15. System Architecture
+## 14. System Architecture
 
 The system follows a simple client-server recommendation architecture.
 
@@ -240,7 +240,7 @@ FastAPI JSON Response
     ↓
 Gradio UI
 
-## 16. Screenshots
+## 15. Screenshots
 
 ### Hybrid Recommendation UI
 
@@ -258,7 +258,7 @@ Gradio UI
 
 ![Evaluation Results](screenshots/evaluation_results.png)
 
-## 17. Project Structure
+## 16. Project Structure
 
 intelligent-product-recommendation/
 |
@@ -289,7 +289,7 @@ intelligent-product-recommendation/
 |-- README.md
 |-- .gitignore
 
-## 18. Installation
+## 17. Installation
 
 Clone the repository:
 
@@ -299,7 +299,7 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-## 19. How to Run
+## 18. How to Run
 
 ### Step 1: Start the FastAPI Backend
 
@@ -332,7 +332,7 @@ For a new user:
    from the selected category.
 5. The recommendations are displayed in the Gradio UI.
 
-## 20. Limitations
+## 19. Limitations
 
 - The dataset is a synthetic e-commerce dataset.
 - The current evaluation uses one held-out interaction per customer.
@@ -341,7 +341,7 @@ For a new user:
 - The current system is demonstrated locally using Google Colab.
 - The API and UI are not deployed to a production cloud environment.
 
-## 21. Future Improvements
+## 20. Future Improvements
 
 - Deploy FastAPI and Gradio to a cloud platform.
 - Use a larger real-world e-commerce dataset.
