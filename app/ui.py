@@ -5,7 +5,7 @@ import pandas as pd
 import gradio as gr
 
 
-API_URL = "https://intelligent-product-recommendation-hjj2.onrender.com"
+API_URL = "https://intelligent-product-recommendation-api.onrender.com"
 
 
 def recommendation_ui(customer_id, category):
