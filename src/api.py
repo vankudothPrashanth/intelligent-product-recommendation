@@ -52,8 +52,18 @@ recommender = RecommendationSystem(
 app = FastAPI(
     title="Intelligent Product Recommendation System",
     description="Hybrid product recommendation API",
-    version="1.0"
+    version="1.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+    openapi_url="/openapi.json"
 )
+
+
+@app.get("/")
+def root():
+    return {
+        "message": "Intelligent Product Recommendation API is running"
+    }
 
 
 # ---------------------------------------------------------
